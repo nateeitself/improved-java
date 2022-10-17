@@ -1,18 +1,15 @@
-## Getting Started
+## Hacktoberfest 2022
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository is for beginners who want to contribute to open source projects. This repository is for Hacktoberfest 2022. You can contribute to this repository by adding your name to the list of contributors.
 
-## Folder Structure
+## How to contribute
 
-The workspace contains two folders by default, where:
+1. Fork this repository
+2. Clone the forked repository to your local machine
+3. Add your name to the list of contributors
+4. Commit and push your changes
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Contributors
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+-   [rizkyhaksono](https://github.com/rizkyhaksono)
+-   [yournickname](https://github.com/yournickname)
