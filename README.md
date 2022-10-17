@@ -13,3 +13,7 @@ This repository is for beginners who want to contribute to open source projects.
 
 -   [rizkyhaksono](https://github.com/rizkyhaksono)
 -   [yournickname](https://github.com/yournickname)
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
